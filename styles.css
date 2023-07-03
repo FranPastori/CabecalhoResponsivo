@@ -9,3 +9,7 @@ body{
     background-color: var(--cor-de-fundo);
     margin: 0;
 }
+
+h1{
+    font-weight: normal;
+}
