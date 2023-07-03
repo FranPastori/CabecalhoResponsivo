@@ -6,11 +6,10 @@
 .container {
     display: flex;
     align-items: center;
+    gap:1em ;
 }
 
-.container__imagem, .container__frase {
-    padding: 1em;
-}
+
 
 .container__titulo, .container__frase{
     display: none;
